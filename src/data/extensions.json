@@ -1,0 +1,17 @@
+{
+    ".ggz": "game",
+    ".pdf": "document",
+    ".zip": "compress",
+    ".jpg": "image",
+    ".rar": "compress",
+    ".txt": "document",
+    ".pptx": "document",
+    ".pps": "document",
+    ".png": "image",
+    ".docx": "document",
+    ".mov": "images",
+    ".mp4": "images",
+    ".xlsx": "document",
+    ".potx": "document",
+    ".xls": "document"
+}
